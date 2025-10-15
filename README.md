@@ -21,4 +21,4 @@ Microsoft Excel 2010
 - Slicers used: Day, Quarter, Year
 ## 📂 Project Structure:
 - Tesla_StockPrice_Analysis.xlsx - Main Excel file with dataset, pivot tables and dashboard
-- Tesla_Stock_Report.docx - Report of the analysis
+- Tesla_StockPrice_Analysis_Report.docx - Report of the analysis
