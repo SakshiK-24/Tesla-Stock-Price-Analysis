@@ -6,11 +6,11 @@ How Tesla’s stock price evolved from 2010 to 2024
 Which quarters or years showed the highest or lowest returns
 How trading volume and moving averages reflected Tesla’s market growth
 ## 🎯 Objectives:
-Calculate and analyze Daily Returns and Cumulative Returns
-Compute 7-day and 30-day Moving Averages
-Identify maximum, minimum, and average stock prices
-Visualize key metrics like Volume trends, Quarterly performance, and Yearly price movements
-Create an interactive Excel dashboard with slicers for Month, Quarter, and Year
+- Calculate and analyze Daily Returns and Cumulative Returns
+- Compute 7-day and 30-day Moving Averages
+- Identify maximum, minimum, and average stock prices
+- Visualize key metrics like Volume trends, Quarterly performance, and Yearly price movements
+- Create an interactive Excel dashboard with slicers for Month, Quarter, and Year
 ## 📊 Insights Uncovered:
 - Key KPI's like Average of Close, Max of High, Min of Low, etc
 - Quarterly Average of Close
