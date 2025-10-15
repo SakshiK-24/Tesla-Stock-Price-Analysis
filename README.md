@@ -19,6 +19,7 @@ Microsoft Excel 2010
 - Quarterly Max of High VS Min of Low
 - Monthly Average of Close VS 7day MA VS 30day MA, etc
 - Slicers used: Day, Quarter, Year
+- The detailed analysis and insights for each year (2010–2024) are included in the project report file (Tesla_StockPrice_Analysis_Report.docx).
 ## 📂 Project Structure:
 - Tesla_StockPrice_Analysis.xlsx - Main Excel file with dataset, pivot tables and dashboard
 - Tesla_StockPrice_Analysis_Report.docx - Report of the analysis
