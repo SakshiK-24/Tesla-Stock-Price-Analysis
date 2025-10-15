@@ -5,6 +5,8 @@ To analyze Tesla’s stock performance over 14 years and uncover insights such a
 How Tesla’s stock price evolved from 2010 to 2024
 Which quarters or years showed the highest or lowest returns
 How trading volume and moving averages reflected Tesla’s market growth
+## 🔧 Tool Used:
+Microsoft Excel 2010
 ## 🎯 Objectives:
 - Calculate and analyze Daily Returns and Cumulative Returns
 - Compute 7-day and 30-day Moving Averages
